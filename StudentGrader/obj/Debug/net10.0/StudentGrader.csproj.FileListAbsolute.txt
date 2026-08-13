@@ -1,0 +1,14 @@
+D:\ftripjr.dev\interviewPrep\c-sharp\dotnet-basics\StudentGrader\bin\Debug\net10.0\StudentGrader.exe
+D:\ftripjr.dev\interviewPrep\c-sharp\dotnet-basics\StudentGrader\bin\Debug\net10.0\StudentGrader.deps.json
+D:\ftripjr.dev\interviewPrep\c-sharp\dotnet-basics\StudentGrader\bin\Debug\net10.0\StudentGrader.runtimeconfig.json
+D:\ftripjr.dev\interviewPrep\c-sharp\dotnet-basics\StudentGrader\bin\Debug\net10.0\StudentGrader.dll
+D:\ftripjr.dev\interviewPrep\c-sharp\dotnet-basics\StudentGrader\bin\Debug\net10.0\StudentGrader.pdb
+D:\ftripjr.dev\interviewPrep\c-sharp\dotnet-basics\StudentGrader\obj\Debug\net10.0\StudentGrader.GeneratedMSBuildEditorConfig.editorconfig
+D:\ftripjr.dev\interviewPrep\c-sharp\dotnet-basics\StudentGrader\obj\Debug\net10.0\StudentGrader.AssemblyInfoInputs.cache
+D:\ftripjr.dev\interviewPrep\c-sharp\dotnet-basics\StudentGrader\obj\Debug\net10.0\StudentGrader.AssemblyInfo.cs
+D:\ftripjr.dev\interviewPrep\c-sharp\dotnet-basics\StudentGrader\obj\Debug\net10.0\StudentGrader.csproj.CoreCompileInputs.cache
+D:\ftripjr.dev\interviewPrep\c-sharp\dotnet-basics\StudentGrader\obj\Debug\net10.0\StudentGrader.dll
+D:\ftripjr.dev\interviewPrep\c-sharp\dotnet-basics\StudentGrader\obj\Debug\net10.0\refint\StudentGrader.dll
+D:\ftripjr.dev\interviewPrep\c-sharp\dotnet-basics\StudentGrader\obj\Debug\net10.0\StudentGrader.pdb
+D:\ftripjr.dev\interviewPrep\c-sharp\dotnet-basics\StudentGrader\obj\Debug\net10.0\StudentGrader.genruntimeconfig.cache
+D:\ftripjr.dev\interviewPrep\c-sharp\dotnet-basics\StudentGrader\obj\Debug\net10.0\ref\StudentGrader.dll

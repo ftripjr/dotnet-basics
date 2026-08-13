@@ -1,0 +1,14 @@
+D:\ftripjr.dev\interviewPrep\c-sharp\dotnet-basics\ArrayIntro\bin\Debug\net10.0\ArrayIntro.exe
+D:\ftripjr.dev\interviewPrep\c-sharp\dotnet-basics\ArrayIntro\bin\Debug\net10.0\ArrayIntro.deps.json
+D:\ftripjr.dev\interviewPrep\c-sharp\dotnet-basics\ArrayIntro\bin\Debug\net10.0\ArrayIntro.runtimeconfig.json
+D:\ftripjr.dev\interviewPrep\c-sharp\dotnet-basics\ArrayIntro\bin\Debug\net10.0\ArrayIntro.dll
+D:\ftripjr.dev\interviewPrep\c-sharp\dotnet-basics\ArrayIntro\bin\Debug\net10.0\ArrayIntro.pdb
+D:\ftripjr.dev\interviewPrep\c-sharp\dotnet-basics\ArrayIntro\obj\Debug\net10.0\ArrayIntro.GeneratedMSBuildEditorConfig.editorconfig
+D:\ftripjr.dev\interviewPrep\c-sharp\dotnet-basics\ArrayIntro\obj\Debug\net10.0\ArrayIntro.AssemblyInfoInputs.cache
+D:\ftripjr.dev\interviewPrep\c-sharp\dotnet-basics\ArrayIntro\obj\Debug\net10.0\ArrayIntro.AssemblyInfo.cs
+D:\ftripjr.dev\interviewPrep\c-sharp\dotnet-basics\ArrayIntro\obj\Debug\net10.0\ArrayIntro.csproj.CoreCompileInputs.cache
+D:\ftripjr.dev\interviewPrep\c-sharp\dotnet-basics\ArrayIntro\obj\Debug\net10.0\ArrayIntro.dll
+D:\ftripjr.dev\interviewPrep\c-sharp\dotnet-basics\ArrayIntro\obj\Debug\net10.0\refint\ArrayIntro.dll
+D:\ftripjr.dev\interviewPrep\c-sharp\dotnet-basics\ArrayIntro\obj\Debug\net10.0\ArrayIntro.pdb
+D:\ftripjr.dev\interviewPrep\c-sharp\dotnet-basics\ArrayIntro\obj\Debug\net10.0\ArrayIntro.genruntimeconfig.cache
+D:\ftripjr.dev\interviewPrep\c-sharp\dotnet-basics\ArrayIntro\obj\Debug\net10.0\ref\ArrayIntro.dll
